@@ -14,9 +14,13 @@ Soggy-oatmeal is now a repo the 'content' as I keep looking forward. I have a fe
 ##### Steps
 
 `git remote rm origin`
+
 `git filter-branch --subdirectory-filter <dir to archive> -- --all`
+
 `git remote add origin git@github.com:mitchejj/soggy-oatmeal.git`
+
 `git checkout -b <branch>`
+
 `git push -u origin <branch>`
 
 I 'should' now be able to 'import' them into other projects with
@@ -24,4 +28,5 @@ I 'should' now be able to 'import' them into other projects with
 `git submodule add -b <branch name> https://github.com/mitchejj/soggy-oatmeal <dir name>`
 
 I can then update the module with
+
 `git submodule update --rebase --remote`
