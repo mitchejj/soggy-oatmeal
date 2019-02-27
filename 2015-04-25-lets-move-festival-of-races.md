@@ -1,7 +1,8 @@
 ---
 title: Lets Move Festival of Races
 subtitle: 2015 Half Marathon
-tags: running
+tags:
+  - running
 meta:
   description: Thoughts the 2015 @MacombFitness Half Marathon
   image:
