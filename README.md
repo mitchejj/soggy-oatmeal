@@ -10,6 +10,9 @@ Soggy-oatmeal is now a repo the 'content' as I keep looking forward. I have a fe
 * `images` -- needs no explination
 * `blog-archive` -- an archive of old blog post (from nullog & StaticDraft)
 * `content-pages` -- a mix of all the other 'content'
+* `about` -- needs no explination
+* `io` -- kind of like a tech/projects space
+* `suggest` -- when breadking out `content-pages` this was also in the branch and wanted to save it... its long forgotten concept I had to give suggestions/track pages.
 
 ##### Steps
 
